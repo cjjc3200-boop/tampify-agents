@@ -1,0 +1,12 @@
+[
+  {"name": "Tampa Pole Fitness", "city": "Tampa", "niche": "Gyms", "state": "FL", "email": "hello@tampapole.com"},
+  {"name": "Gro Yoga", "city": "Miami", "niche": "Gyms", "state": "FL", "email": "hi@groyoga.com"},
+  {"name": "Sunshine Roofing", "city": "Orlando", "niche": "Roofing", "state": "FL", "contact_form": "https://sunshineroofing.com/contact"},
+  {"name": "Peach State HVAC", "city": "Atlanta", "niche": "HVAC", "state": "GA", "email": "info@peachhvac.com"},
+  {"name": "Bright Smile Dental", "city": "Sarasota", "niche": "Dental/Medical", "state": "FL", "email": "front@brightsmile.com"},
+  {"name": "Quick AI Marketing", "city": "Miami", "niche": "Cleaning/Pest", "state": "FL", "email": "sales@quickai.com", "has_ai_services": true},
+  {"name": "Gulf Med Spa", "city": "Naples", "niche": "Med Spa", "state": "FL", "email": "book@gulfmedspa.com", "previously_contacted": true},
+  {"name": "No Contact Landscaping", "city": "Ocala", "niche": "Cleaning/Pest", "state": "FL"},
+  {"name": "Coral Gables Jewelry", "city": "Coral Gables", "niche": "Jewelry", "state": "FL", "contact_form": "https://cgjewelry.com/contact"},
+  {"name": "Mystery Niche Co", "city": "Tampa", "niche": "Underwater Basket Weaving", "state": "FL", "email": "hi@mystery.com"}
+]
